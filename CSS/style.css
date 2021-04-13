@@ -544,6 +544,10 @@ nav {
     width: 140%;
 }
 
+#faq .section--content .subscribe .title{
+    margin-top: 5%;
+}
+
 #faq .section--content .subscribe .subtitle{
     width: 100%;
     font-size: 1rem;
@@ -556,6 +560,10 @@ nav {
 }
 
 /* Footer */
+#footer {
+    padding-top: 5%;
+}
+
 .menus .area1,
 .menus .area2 {
     flex-direction: row;
