@@ -544,8 +544,8 @@ nav {
     width: 140%;
 }
 
-#faq .section--content .subscribe .title{
-    margin-top: 5%;
+#faq .title {
+    margin: 5% 0 8%;
 }
 
 #faq .section--content .subscribe .subtitle{
