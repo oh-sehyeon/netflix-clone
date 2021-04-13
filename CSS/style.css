@@ -259,8 +259,8 @@ nav {
 }
 
 #download .section--content .image--container .download--status .download--img {
-    height: 4rem;
-    width: 3rem;
+    height: 80%;
+    width: 15%;
 }
 
 #download .section--content .image--container .download--status .download--texts {
@@ -272,17 +272,17 @@ nav {
 
 #download .section--content .image--container .download--status .download--texts .text0 {
     color: var(--white);
-    font-size: 16px;
+    font-size: .9rem;
 }
 
 #download .section--content .image--container .download--status .download--texts .text1 {
     color: var(--blue);
-    font-size: 14px;
+    font-size: .75rem;
 }
 
 #download .section--content .image--container .download--status .download--icon {
-    height: 3rem;
-    width: 3rem;
+    height: 100%;
+    width: 30%;
 }
 
 /* Section 3 */
@@ -518,6 +518,13 @@ nav {
     transform: translateY(-5%) translateX(-10%);
 }
 
+#download .section--content .image--container .download--status .download--texts .text0 {
+    font-size: 1.25rem;
+}
+
+#download .section--content .image--container .download--status .download--texts .text1 {
+    font-size: 1rem;
+}
 /* SECTION 4 */
 #faq {
     flex-direction: column;
